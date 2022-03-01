@@ -8,6 +8,11 @@
 
 <br>
 
+<hr>
+<hr>
+
+<br>
+
 # Project Description
 
 ## Problem Description
@@ -27,6 +32,26 @@ The idea is to provide a platform where the Institutions, Organisations, or anyo
 That will make their certificate authentic, and then they can transfer it to the applicant. On the other hand, applicants can check all of their certificates, or NFTs they received now, and then they may showcase them to the other platforms.
 
 Our idea is unique in itself as it restores the uniqueness and authenticity of Certificates by storing them as or in as NFT and making them more valuable.
+
+<br>
+
+<hr>
+<hr>
+
+<br>
+
+# ROADMAP
+
+## <a href = "https://www.figma.com/file/HjYi7KbugT0xsXoA7arIN2/Certified-Cliche?node-id=0%3A1" target="_blank" >Figma</a>
+
+## <a href="https://whimsical.com/workflow-JuAUDpown8n3EBjRqDShHQ" target="_blank">Workflow</a>
+
+## <a href = "https://whimsical.com/architecture-T6APUm5Y1Cii8SC4UnndDM" target="_blank">Architecture</a>
+
+<br>
+
+<hr>
+<hr>
 
 <br>
 
@@ -169,9 +194,16 @@ This is the example of TEST WALLET in METAMASK.
 <img src= "readme_assets/images/metamask_2.png"></img>
 
 <br>
+<hr>
+<hr>
+<br>
 
-# Open The Folder in the VS Code or any IDE.
 
+# Open The Folder in the VS Code or any IDE. 
+
+<br>
+<hr>
+<hr>
 <br>
 
 # [To Run On LocalHost][recommended]
@@ -262,6 +294,9 @@ client/abi/NFTTransfer.json
 npm run dev
 ```
 
+<br>
+<hr>
+<hr>
 <br>
 
 # And Now you may Start Contributing 😀
@@ -378,6 +413,8 @@ npm run dev
 
 <br>
 <br>
+
+## 🔴 Please Note 🔴
 
 - Currently it is deployed on the Polygon Mumbai-Testnet.
 
